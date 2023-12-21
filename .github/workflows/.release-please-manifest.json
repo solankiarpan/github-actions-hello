@@ -1,4 +1,10 @@
 {
     "include-v-in-tag" : false,
-    "extra-files" : [{"path": "test.yaml"}]
+    "extra-files" : [{"path": "test.yaml"}],
+    "release-as": "1.2.3",
+    "packages": {
+        ".": {
+          "release-type": "simple"
+        }
+    }
 }
