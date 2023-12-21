@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/solankiarpan/github-actions-hello/compare/v1.3.0...v1.4.0) (2023-12-21)
+
+
+### Features
+
+* adding rp ([2af5daa](https://github.com/solankiarpan/github-actions-hello/commit/2af5daa99191c131849aaabcf72c34fac1322bcf))
+
 ## [1.3.0](https://github.com/solankiarpan/github-actions-hello/compare/v1.2.0...v1.3.0) (2023-12-21)
 
 
