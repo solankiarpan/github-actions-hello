@@ -1,4 +1,9 @@
 {
-    "include-v-in-tag" : false,
-    "extra-files" : [{"path": "test.yaml"}]
+    "include-v-in-tag": false,
+    "extra-files": [
+        {
+            "path": "test.yaml"
+        }
+    ],
+    ".": "1.3.0"
 }

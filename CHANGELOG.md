@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/solankiarpan/github-actions-hello/compare/v1.2.0...v1.3.0) (2023-12-21)
+
+
+### Features
+
+* add file ([645d0d3](https://github.com/solankiarpan/github-actions-hello/commit/645d0d3ea01caee6a7f9b532ba8f2d9590d98152))
+
 ## [1.2.0](https://github.com/solankiarpan/github-actions-hello/compare/v1.1.0...v1.2.0) (2023-12-21)
 
 
